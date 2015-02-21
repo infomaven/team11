@@ -5,10 +5,13 @@ Application for *Hack like a Girl* at Nike WHQ, Feb 2015
 <a target="_blank" href="https://chrome.google.com/webstore/detail/nmfpplkdkcbhediajmbhljkafnlahcda">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this sample from the Chrome Web Store")</a>
 
 
-# Hello World
+# REACH
 
-This is a starter application. It contains a basic manifest file with no
-additional permissions. The manifest denotes a background script, main.js,
+REACH is a web application designed as a portal to help women who want to improve their tech skills find mentors and other women with similar interests. Members can create online profiles and view profiles of other members for making contacts.
+
+This app will be built as a Chrome App so users can run it as a Desktop app or from their web browsers. 
+
+The manifest denotes a background script, main.js,
 detailed below:
 
 ```javascript
