@@ -49,5 +49,6 @@ and, at that point, creates a window using a basic HTML page, index.html, as the
      
 ## Screenshot
 
-![screnshot](https://github.com/infomaven/team11/blob/master/SCREENSHOTS/330x550-homepage.png)
+![screenshot](https://github.com/infomaven/team11/blob/master/SCREENSHOTS/330x550-homepage.png)
+![screenshot](https://github.com/infomaven/team11/blob/master/SCREENSHOTS/330x550-contact-card.png)
 
